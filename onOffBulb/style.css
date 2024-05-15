@@ -1,0 +1,21 @@
+.contain {
+    width: 300px;
+    /* height: 80/0px; */
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    line-height: 25px;
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+    background-color: transparent;
+    color: aliceblue;
+    margin-left: -25px ;
+}
+body{
+   background-color: black;
+    /* background:linear-gradient(black,white); */
+    color: white;
+}
